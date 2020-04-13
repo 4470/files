@@ -1,0 +1,7 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('ViewDefinition [CoordinationView]'),'2;1');
+FILE_NAME('abIFC.ifc','2019-09-14T05:47:57',('',''),(''),'IfcOpenShell 0.5.0-dev','IfcOpenShell 0.5.0-dev','');
+FILE_SCHEMA(('IFC2X3'));
+ENDSEC;
+DATA;
